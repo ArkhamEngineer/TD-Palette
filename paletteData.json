@@ -1,0 +1,62 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "id": "2.1.1",
+                    "name": "ps5_Controller.tox",
+                    "path": "/3d Render/ps5_Controller.tox",
+                    "type": "file"
+                }
+            ],
+            "id": "2.1",
+            "name": "3d Render",
+            "path": "/3d Render",
+            "type": "directory"
+        },
+        {
+            "children": [
+                {
+                    "id": "2.2.1",
+                    "name": "colour_lovers_picker.tox",
+                    "path": "/misc/colour_lovers_picker.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.2.2",
+                    "name": "designer_v2_1.tox",
+                    "path": "/misc/designer_v2_1.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.2.3",
+                    "name": "MediaPipe.tox",
+                    "path": "/misc/MediaPipe.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.2.4",
+                    "name": "object_tracking.tox",
+                    "path": "/misc/object_tracking.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.2.5",
+                    "name": "CircuitBending.tox",
+                    "path": "/misc/CircuitBending.tox",
+                    "type": "file"
+                }
+            ],
+            "id": "2.2",
+            "name": "misc",
+            "path": "/misc",
+            "type": "directory"
+        }
+    ],
+    "id": "2",
+    "localRoot": "app.userPaletteFolder",
+    "name": "My Components",
+    "palette": "My Components",
+    "path": "app.userPaletteFolder",
+    "type": "directory"
+}
